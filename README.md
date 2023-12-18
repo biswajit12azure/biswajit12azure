@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Biswajit Dash</h1>
 <h3 align="center">A passionate Cloud Devops Engineer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://iconscout.com/lottie-animation/professional-male-devops-8872610">
+<img align="right" alt="Coding" width="400" src="https://fusion.works/wp-content/uploads/2023/01/ezgif-4-3288abc425.gif">
 
 
 
