@@ -1,10 +1,10 @@
-<h1 align="center">Hi 👋, I'm Sushant Kapare</h1>
+<h1 align="center">Hi 👋, I'm Biswajit Dash</h1>
 <h3 align="center">A passionate Cloud Devops Engineer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 
 
-- 🔭 I’m currently working on **AWS and Devops Projects**
+- 🔭 I’m currently working on **Azure and Devops Projects**
 
 - 🌱 I’m currently learnig **Python**
 
