@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **AWS, Azure, Data Analytics  and Devops Projects**
 
-- 🌱 Visit my website  **https://www.smartinfologiks.com**
+- 🌱 Visit my website  **www.smartinfologiks.com**
 
 - 💬 Ask me about anything  **Azure,Devops,open-source**
 
