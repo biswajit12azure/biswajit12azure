@@ -4,9 +4,9 @@
 
 
 
-- 🔭 I’m currently working on **Azure and Devops Projects**
+- 🔭 I’m currently working on **AWS, Azure, Data Analytics  and Devops Projects**
 
-- 🌱 I’m currently learnig **Python**
+- 🌱 Visit my website  **(https://www.smartinfologiks.com/)**
 
 - 💬 Ask me about anything  **Azure,Devops,open-source**
 
