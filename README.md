@@ -17,6 +17,7 @@
 <a href="https://www.linkedin.com/in/biswajit-dash-539252210/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/biswajit-dash-539252210/" height="30" width="40" /></a>
 </p>
 
+<img width="417" height="72" alt="image" src="https://github.com/user-attachments/assets/2b999cd7-3ce1-446a-81ed-364a0afb542c" />
 
 ---
 
