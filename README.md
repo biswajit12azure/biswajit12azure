@@ -6,8 +6,6 @@
 
 - 🔭 I’m currently working on **AWS, Azure, GCP, Data Analytics  and Devops Projects**
 
-- 🌱 Visit my website  **www.smartinfologiks.com**
-
 - 💬 Ask me about anything  **Azure,Devops,open-source**
 
 - 📫 How to reach me **devopsforcareer@gmail.com**
