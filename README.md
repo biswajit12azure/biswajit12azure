@@ -4,7 +4,7 @@
 
 
 
-- 🔭 I’m currently working on **AWS, Azure, Data Analytics  and Devops Projects**
+- 🔭 I’m currently working on **AWS, Azure, GCP, Data Analytics  and Devops Projects**
 
 - 🌱 Visit my website  **www.smartinfologiks.com**
 
